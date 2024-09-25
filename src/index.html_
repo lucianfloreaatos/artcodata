@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="/assets/css/style.min.css">
+    <link rel="icon" href="/assets/img/logo-white.svg" sizes="16x16" type="image/png">
+    <title>ionos.ro - Pagina în curs de pregătire 2.</title>
+</head>
+
+<body class="secondary-template">
+
+    <header>
+        <div>
+            <a href="https://ionos.ro"><img src="/assets/img/logo.svg" alt="ionos.ro" width="88" height="25"></a>
+        </div>
+    </header>
+
+    <main>
+        <div class="info-box">
+            <h1>Pagina în curs de pregătire...</h1>
+            <img src="/assets/img/maitenance.svg" alt="Actualizăm serviciul." />
+            <p>
+                <strong>Opțiuni disponibile pentru administrator</strong> sau pentru un utilizator autorizat al serviciului:
+            </p>
+            <ul>
+                <li><a href="https://login.webmail.ionos.ro/">Citește corespondența</a></li>
+                <li><a href="https://cp.ionos.ro/servlet/Turbine/frm/single/">Gestionează serviciile</a></li>
+            </ul>
+        </div>
+    </main>
+</body>
+
+</html>
